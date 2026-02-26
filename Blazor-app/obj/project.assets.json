@@ -426,7 +426,11 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.NET.Sdk.WebAssembly.Pack/10.0.2": {
+=======
+      "Microsoft.NET.Sdk.WebAssembly.Pack/9.0.12": {
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         "type": "package",
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
@@ -869,7 +873,11 @@
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
       },
+<<<<<<< HEAD
       "Microsoft.NET.Sdk.WebAssembly.Pack/10.0.2": {
+=======
+      "Microsoft.NET.Sdk.WebAssembly.Pack/9.0.12": {
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         "type": "package",
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
@@ -1725,10 +1733,17 @@
         "useSharedDesignerContext.txt"
       ]
     },
+<<<<<<< HEAD
     "Microsoft.NET.Sdk.WebAssembly.Pack/10.0.2": {
       "sha512": "ZDAtI9V2EQajyccTZ67JtJWMCIpK3ZFgwqNHyfMieossRdB90WJ+IbYVKObLOLIv9Vkc3eJcrJD2CeffsF/nUA==",
       "type": "package",
       "path": "microsoft.net.sdk.webassembly.pack/10.0.2",
+=======
+    "Microsoft.NET.Sdk.WebAssembly.Pack/9.0.12": {
+      "sha512": "c3yi+Cd4xnmpcXOf5H2so5VFaYM2gI+FYVuQ5Q2g6Nyw9E1FHnJYMOlJkI1aPBHiC7/pkhW9sFg2xaS7lYEW7g==",
+      "type": "package",
+      "path": "microsoft.net.sdk.webassembly.pack/9.0.12",
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -1758,7 +1773,11 @@
         "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets",
         "build/Wasm.web.config",
         "build/browser.runtimeconfig.template.json",
+<<<<<<< HEAD
         "microsoft.net.sdk.webassembly.pack.10.0.2.nupkg.sha512",
+=======
+        "microsoft.net.sdk.webassembly.pack.9.0.12.nupkg.sha512",
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         "microsoft.net.sdk.webassembly.pack.nuspec",
         "tools/net10.0/Microsoft.NET.Sdk.WebAssembly.Pack.Tasks.dll",
         "tools/net10.0/Microsoft.NET.WebAssembly.Webcil.dll",
@@ -1777,16 +1796,25 @@
       "Microsoft.AspNetCore.Components.WebAssembly >= 9.0.13",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 9.0.13",
       "Microsoft.NET.ILLink.Tasks >= 9.0.12",
+<<<<<<< HEAD
       "Microsoft.NET.Sdk.WebAssembly.Pack >= 10.0.2",
+=======
+      "Microsoft.NET.Sdk.WebAssembly.Pack >= 9.0.12",
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
       "shared >= 1.0.0"
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "/Users/sophieholm/.nuget/packages/": {}
+=======
+    "/Users/signebaun/.nuget/packages/": {}
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/Users/sophieholm/Desktop/Feddit/Blazor-app/Blazor-app.csproj",
       "projectName": "Blazor-app",
       "projectPath": "/Users/sophieholm/Desktop/Feddit/Blazor-app/Blazor-app.csproj",
@@ -1795,6 +1823,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sophieholm/.nuget/NuGet/NuGet.Config"
+=======
+      "projectUniqueName": "/Users/signebaun/Desktop/Feddit/Blazor-app/Blazor-app.csproj",
+      "projectName": "Blazor-app",
+      "projectPath": "/Users/signebaun/Desktop/Feddit/Blazor-app/Blazor-app.csproj",
+      "packagesPath": "/Users/signebaun/.nuget/packages/",
+      "outputPath": "/Users/signebaun/Desktop/Feddit/Blazor-app/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/signebaun/.nuget/NuGet/NuGet.Config"
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -1806,8 +1844,13 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+<<<<<<< HEAD
             "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {
               "projectPath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj"
+=======
+            "/Users/signebaun/Desktop/Feddit/shared/shared.csproj": {
+              "projectPath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj"
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
             }
           }
         }
@@ -1846,7 +1889,11 @@
           "Microsoft.NET.Sdk.WebAssembly.Pack": {
             "suppressParent": "All",
             "target": "Package",
+<<<<<<< HEAD
             "version": "[10.0.2, )",
+=======
+            "version": "[9.0.12, )",
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
             "autoReferenced": true
           }
         },
@@ -1872,7 +1919,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.310/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
       }
     },
     "runtimes": {

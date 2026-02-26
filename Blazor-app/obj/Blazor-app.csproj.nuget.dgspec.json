@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "/Users/sophieholm/Desktop/Feddit/Blazor-app/Blazor-app.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sophieholm/.nuget/NuGet/NuGet.Config"
+=======
+    "/Users/signebaun/Desktop/Feddit/Blazor-app/Blazor-app.csproj": {}
+  },
+  "projects": {
+    "/Users/signebaun/Desktop/Feddit/Blazor-app/Blazor-app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/signebaun/Desktop/Feddit/Blazor-app/Blazor-app.csproj",
+        "projectName": "Blazor-app",
+        "projectPath": "/Users/signebaun/Desktop/Feddit/Blazor-app/Blazor-app.csproj",
+        "packagesPath": "/Users/signebaun/.nuget/packages/",
+        "outputPath": "/Users/signebaun/Desktop/Feddit/Blazor-app/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/signebaun/.nuget/NuGet/NuGet.Config"
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -26,8 +43,13 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+<<<<<<< HEAD
               "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {
                 "projectPath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj"
+=======
+              "/Users/signebaun/Desktop/Feddit/shared/shared.csproj": {
+                "projectPath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj"
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
               }
             }
           }
@@ -66,7 +88,11 @@
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
+<<<<<<< HEAD
               "version": "[10.0.2, )",
+=======
+              "version": "[9.0.12, )",
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
               "autoReferenced": true
             }
           },
@@ -92,7 +118,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.310/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         }
       },
       "runtimes": {
@@ -101,6 +131,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -112,6 +143,19 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sophieholm/.nuget/NuGet/NuGet.Config"
+=======
+    "/Users/signebaun/Desktop/Feddit/shared/shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
+        "projectName": "shared",
+        "projectPath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
+        "packagesPath": "/Users/signebaun/.nuget/packages/",
+        "outputPath": "/Users/signebaun/Desktop/Feddit/shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/signebaun/.nuget/NuGet/NuGet.Config"
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -156,7 +200,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.310/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         }
       }
     }
