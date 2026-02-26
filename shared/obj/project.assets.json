@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\magnu\\.nuget\\packages\\": {}
+    "/Users/signebaun/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj",
+      "projectUniqueName": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
       "projectName": "shared",
-      "projectPath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj",
-      "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\obj\\",
+      "projectPath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
+      "packagesPath": "/Users/signebaun/.nuget/packages/",
+      "outputPath": "/Users/signebaun/Desktop/Feddit/shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/signebaun/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.310/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
