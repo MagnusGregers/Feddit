@@ -1,20 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\web-api\\web-api.csproj": {}
+<<<<<<< HEAD
+    "/Users/sophieholm/Desktop/Feddit/web-api/web-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj": {
+    "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj",
+        "projectUniqueName": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj",
         "projectName": "shared",
-        "projectPath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj",
-        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\obj\\",
+        "projectPath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj",
+        "packagesPath": "/Users/sophieholm/.nuget/packages/",
+        "outputPath": "/Users/sophieholm/Desktop/Feddit/shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/sophieholm/.nuget/NuGet/NuGet.Config"
+=======
+    "/Users/signebaun/Desktop/Feddit/web-api/web-api.csproj": {}
+  },
+  "projects": {
+    "/Users/signebaun/Desktop/Feddit/shared/shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
+        "projectName": "shared",
+        "projectPath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
+        "packagesPath": "/Users/signebaun/.nuget/packages/",
+        "outputPath": "/Users/signebaun/Desktop/Feddit/shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/signebaun/.nuget/NuGet/NuGet.Config"
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +55,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -59,21 +76,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\web-api\\web-api.csproj": {
+    "/Users/sophieholm/Desktop/Feddit/web-api/web-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\web-api\\web-api.csproj",
+        "projectUniqueName": "/Users/sophieholm/Desktop/Feddit/web-api/web-api.csproj",
         "projectName": "web-api",
-        "projectPath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\web-api\\web-api.csproj",
-        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\web-api\\obj\\",
+        "projectPath": "/Users/sophieholm/Desktop/Feddit/web-api/web-api.csproj",
+        "packagesPath": "/Users/sophieholm/.nuget/packages/",
+        "outputPath": "/Users/sophieholm/Desktop/Feddit/web-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/sophieholm/.nuget/NuGet/NuGet.Config"
+=======
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.310/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/signebaun/Desktop/Feddit/web-api/web-api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/signebaun/Desktop/Feddit/web-api/web-api.csproj",
+        "projectName": "web-api",
+        "projectPath": "/Users/signebaun/Desktop/Feddit/web-api/web-api.csproj",
+        "packagesPath": "/Users/signebaun/.nuget/packages/",
+        "outputPath": "/Users/signebaun/Desktop/Feddit/web-api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/signebaun/.nuget/NuGet/NuGet.Config"
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -85,8 +120,13 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj": {
-                "projectPath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj"
+<<<<<<< HEAD
+              "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {
+                "projectPath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj"
+=======
+              "/Users/signebaun/Desktop/Feddit/shared/shared.csproj": {
+                "projectPath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj"
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
               }
             }
           }
@@ -101,7 +141,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -131,7 +171,11 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.310/PortableRuntimeIdentifierGraph.json"
+>>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         }
       }
     }
