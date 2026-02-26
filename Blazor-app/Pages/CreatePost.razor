@@ -16,7 +16,7 @@
 
     @inject NavigationManager NavigationManager;
 
-    private async void CreateNewPost()
+    private async Task CreateNewPost()
     {
         Console.WriteLine("Creating new post");
         if (postTitle == null || postContent == null)
