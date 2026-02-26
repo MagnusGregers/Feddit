@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "DQ3VLSEOuCA=",
+  "dgSpecHash": "gJzNJE7CjQo=",
   "success": true,
-  "projectFilePath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj",
-=======
-  "dgSpecHash": "sGnAkY4usBk=",
-  "success": true,
-  "projectFilePath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
->>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
+  "projectFilePath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
