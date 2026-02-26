@@ -100,4 +100,36 @@ public class ApiService
 
         return updatedPost;
     }
+    
+    public async Task<Comment> UpvoteComment(int id)
+    {
+        string url = $"{baseAPI}posts/{id}/comments/upvote";
+
+        HttpResponseMessage msg = await http.PutAsJsonAsync(url, "");
+
+        string json = msg.Content.ReadAsStringAsync().Result;
+
+        Comment? updatedComment = JsonSerializer.Deserialize<Comment>(json, new JsonSerializerOptions
+        {
+            PropertyNameCaseInsensitive = true
+        });
+
+        return updatedComment;
+    }
+    
+    public async Task<Comment> DownvoteComment(int id)
+    {
+        string url = $"{baseAPI}posts/{id}/comments/downvote";
+
+        HttpResponseMessage msg = await http.PutAsJsonAsync(url, "");
+
+        string json = msg.Content.ReadAsStringAsync().Result;
+
+        Comment? updatedComment = JsonSerializer.Deserialize<Comment>(json, new JsonSerializerOptions
+        {
+            PropertyNameCaseInsensitive = true
+        });
+
+        return updatedComment;
+    }
 }
