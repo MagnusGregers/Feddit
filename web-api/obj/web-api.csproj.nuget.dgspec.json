@@ -1,22 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "/Users/sophieholm/Desktop/Feddit/web-api/web-api.csproj": {}
-  },
-  "projects": {
-    "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj",
-        "projectName": "shared",
-        "projectPath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj",
-        "packagesPath": "/Users/sophieholm/.nuget/packages/",
-        "outputPath": "/Users/sophieholm/Desktop/Feddit/shared/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/sophieholm/.nuget/NuGet/NuGet.Config"
-=======
     "/Users/signebaun/Desktop/Feddit/web-api/web-api.csproj": {}
   },
   "projects": {
@@ -31,7 +15,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/signebaun/.nuget/NuGet/NuGet.Config"
->>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -55,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -76,23 +59,6 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "/Users/sophieholm/Desktop/Feddit/web-api/web-api.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/sophieholm/Desktop/Feddit/web-api/web-api.csproj",
-        "projectName": "web-api",
-        "projectPath": "/Users/sophieholm/Desktop/Feddit/web-api/web-api.csproj",
-        "packagesPath": "/Users/sophieholm/.nuget/packages/",
-        "outputPath": "/Users/sophieholm/Desktop/Feddit/web-api/obj/",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "/Users/sophieholm/.nuget/NuGet/NuGet.Config"
-=======
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
@@ -108,7 +74,6 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/signebaun/.nuget/NuGet/NuGet.Config"
->>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -120,13 +85,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-<<<<<<< HEAD
-              "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {
-                "projectPath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj"
-=======
               "/Users/signebaun/Desktop/Feddit/shared/shared.csproj": {
                 "projectPath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj"
->>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
               }
             }
           }
@@ -141,7 +101,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -171,11 +131,7 @@
               "privateAssets": "all"
             }
           },
-<<<<<<< HEAD
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
-=======
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.310/PortableRuntimeIdentifierGraph.json"
->>>>>>> 61264b06b098057702df7b5c0109f2523a25b64b
         }
       }
     }
