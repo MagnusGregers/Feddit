@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sophieholm/Desktop/Feddit/Blazor-app/Blazor-app.csproj": {}
+    "/Users/signebaun/Desktop/Feddit/Blazor-app/Blazor-app.csproj": {}
   },
   "projects": {
-    "/Users/sophieholm/Desktop/Feddit/Blazor-app/Blazor-app.csproj": {
+    "/Users/signebaun/Desktop/Feddit/Blazor-app/Blazor-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sophieholm/Desktop/Feddit/Blazor-app/Blazor-app.csproj",
+        "projectUniqueName": "/Users/signebaun/Desktop/Feddit/Blazor-app/Blazor-app.csproj",
         "projectName": "Blazor-app",
-        "projectPath": "/Users/sophieholm/Desktop/Feddit/Blazor-app/Blazor-app.csproj",
-        "packagesPath": "/Users/sophieholm/.nuget/packages/",
-        "outputPath": "/Users/sophieholm/Desktop/Feddit/Blazor-app/obj/",
+        "projectPath": "/Users/signebaun/Desktop/Feddit/Blazor-app/Blazor-app.csproj",
+        "packagesPath": "/Users/signebaun/.nuget/packages/",
+        "outputPath": "/Users/signebaun/Desktop/Feddit/Blazor-app/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sophieholm/.nuget/NuGet/NuGet.Config"
+          "/Users/signebaun/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {
-                "projectPath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj"
+              "/Users/signebaun/Desktop/Feddit/shared/shared.csproj": {
+                "projectPath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj"
               }
             }
           }
@@ -42,7 +42,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -66,7 +66,7 @@
             "Microsoft.NET.Sdk.WebAssembly.Pack": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[10.0.2, )",
+              "version": "[9.0.12, )",
               "autoReferenced": true
             }
           },
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.310/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -101,17 +101,17 @@
         }
       }
     },
-    "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {
+    "/Users/signebaun/Desktop/Feddit/shared/shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj",
+        "projectUniqueName": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
         "projectName": "shared",
-        "projectPath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj",
-        "packagesPath": "/Users/sophieholm/.nuget/packages/",
-        "outputPath": "/Users/sophieholm/Desktop/Feddit/shared/obj/",
+        "projectPath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
+        "packagesPath": "/Users/signebaun/.nuget/packages/",
+        "outputPath": "/Users/signebaun/Desktop/Feddit/shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sophieholm/.nuget/NuGet/NuGet.Config"
+          "/Users/signebaun/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -135,7 +135,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -156,7 +156,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.310/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
