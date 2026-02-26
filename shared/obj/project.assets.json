@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\magnu\\ITA-lokalt\\3-Semester\\Softwareudvikling\\feddit\\shared\\shared.csproj",
+      "projectUniqueName": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj",
       "projectName": "shared",
-      "projectPath": "C:\\Users\\magnu\\ITA-lokalt\\3-Semester\\Softwareudvikling\\feddit\\shared\\shared.csproj",
+      "projectPath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj",
       "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\magnu\\ITA-lokalt\\3-Semester\\Softwareudvikling\\feddit\\shared\\obj\\",
+      "outputPath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config"
