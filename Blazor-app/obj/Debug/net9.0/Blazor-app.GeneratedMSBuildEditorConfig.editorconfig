@@ -30,6 +30,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/sophieholm/Desktop/Feddit/Blazor-app/Pages/CreateComment.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3JlYXRlQ29tbWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/sophieholm/Desktop/Feddit/Blazor-app/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -53,3 +57,7 @@ build_metadata.AdditionalFiles.CssScope = b-vu3joq6jj9
 [/Users/sophieholm/Desktop/Feddit/Blazor-app/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-w7cq10cr7f
+
+[/Users/sophieholm/Desktop/Feddit/Blazor-app/Pages/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-jc98277veu
