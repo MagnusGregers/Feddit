@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/signebaun/Desktop/Feddit/shared/shared.csproj": {}
+    "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {}
   },
   "projects": {
-    "/Users/signebaun/Desktop/Feddit/shared/shared.csproj": {
+    "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
+        "projectUniqueName": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj",
         "projectName": "shared",
-        "projectPath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
-        "packagesPath": "/Users/signebaun/.nuget/packages/",
-        "outputPath": "/Users/signebaun/Desktop/Feddit/shared/obj/",
+        "projectPath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj",
+        "packagesPath": "/Users/sophieholm/.nuget/packages/",
+        "outputPath": "/Users/sophieholm/Desktop/Feddit/shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/signebaun/.nuget/NuGet/NuGet.Config"
+          "/Users/sophieholm/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
