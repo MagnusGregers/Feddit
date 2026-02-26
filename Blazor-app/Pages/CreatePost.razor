@@ -14,21 +14,21 @@
     private string? postTitle;
     private string? postContent;
 
-@inject NavigationManager NavigationManager;
+    @inject NavigationManager NavigationManager;
 
     private async void CreateNewPost()
-{
-    Console.WriteLine("Creating new post");
-    if (postTitle == null || postContent == null)
+    {
+        Console.WriteLine("Creating new post");
+        if (postTitle == null || postContent == null)
     {
         return;
     }
-    Console.WriteLine(postTitle + " " + postContent);
-    // TODO: Provide list of users from dropdown, or maybe just convert
-    // from username to UserId
+        Console.WriteLine(postTitle + " " + postContent);
+        // TODO: Provide list of users from dropdown, or maybe just convert
+        // from username to UserId
 
-    await apiService.CreatePost(postTitle, postContent, 2); // UserID: 2
-    StateHasChanged();
-    NavigationManager.NavigateTo("/", true);
-}
+        await apiService.CreatePost(postTitle, postContent, 2); // UserID: 2
+        StateHasChanged();
+        NavigationManager.NavigateTo("/", true);
+    }
 }
