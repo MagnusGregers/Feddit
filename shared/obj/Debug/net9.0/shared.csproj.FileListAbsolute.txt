@@ -1,0 +1,12 @@
+/Users/signebaun/Desktop/Feddit/shared/bin/Debug/net9.0/shared.deps.json
+/Users/signebaun/Desktop/Feddit/shared/bin/Debug/net9.0/shared.dll
+/Users/signebaun/Desktop/Feddit/shared/bin/Debug/net9.0/shared.pdb
+/Users/signebaun/Desktop/Feddit/shared/obj/Debug/net9.0/shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/signebaun/Desktop/Feddit/shared/obj/Debug/net9.0/shared.AssemblyInfoInputs.cache
+/Users/signebaun/Desktop/Feddit/shared/obj/Debug/net9.0/shared.AssemblyInfo.cs
+/Users/signebaun/Desktop/Feddit/shared/obj/Debug/net9.0/shared.csproj.CoreCompileInputs.cache
+/Users/signebaun/Desktop/Feddit/shared/obj/Debug/net9.0/shared.sourcelink.json
+/Users/signebaun/Desktop/Feddit/shared/obj/Debug/net9.0/shared.dll
+/Users/signebaun/Desktop/Feddit/shared/obj/Debug/net9.0/refint/shared.dll
+/Users/signebaun/Desktop/Feddit/shared/obj/Debug/net9.0/shared.pdb
+/Users/signebaun/Desktop/Feddit/shared/obj/Debug/net9.0/ref/shared.dll
