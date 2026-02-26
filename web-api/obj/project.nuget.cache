@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wi8NpbJP+bc=",
+  "dgSpecHash": "KlNuY/sI5VY=",
   "success": true,
-  "projectFilePath": "/Users/signebaun/Desktop/Feddit/web-api/web-api.csproj",
+  "projectFilePath": "/Users/sophieholm/Desktop/Feddit/web-api/web-api.csproj",
   "expectedPackageFiles": [
-    "/Users/signebaun/.nuget/packages/microsoft.aspnetcore.openapi/9.0.13/microsoft.aspnetcore.openapi.9.0.13.nupkg.sha512",
-    "/Users/signebaun/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+    "/Users/sophieholm/.nuget/packages/microsoft.aspnetcore.openapi/9.0.13/microsoft.aspnetcore.openapi.9.0.13.nupkg.sha512",
+    "/Users/sophieholm/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
 }

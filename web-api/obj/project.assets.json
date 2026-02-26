@@ -91,19 +91,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/signebaun/.nuget/packages/": {}
+    "/Users/sophieholm/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/signebaun/Desktop/Feddit/web-api/web-api.csproj",
+      "projectUniqueName": "/Users/sophieholm/Desktop/Feddit/web-api/web-api.csproj",
       "projectName": "web-api",
-      "projectPath": "/Users/signebaun/Desktop/Feddit/web-api/web-api.csproj",
-      "packagesPath": "/Users/signebaun/.nuget/packages/",
-      "outputPath": "/Users/signebaun/Desktop/Feddit/web-api/obj/",
+      "projectPath": "/Users/sophieholm/Desktop/Feddit/web-api/web-api.csproj",
+      "packagesPath": "/Users/sophieholm/.nuget/packages/",
+      "outputPath": "/Users/sophieholm/Desktop/Feddit/web-api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/signebaun/.nuget/NuGet/NuGet.Config"
+        "/Users/sophieholm/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -115,8 +115,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/signebaun/Desktop/Feddit/shared/shared.csproj": {
-              "projectPath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj"
+            "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {
+              "projectPath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj"
             }
           }
         }
@@ -131,7 +131,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -161,7 +161,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.310/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
