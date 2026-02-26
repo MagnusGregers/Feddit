@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sGnAkY4usBk=",
+  "dgSpecHash": "DQ3VLSEOuCA=",
   "success": true,
-  "projectFilePath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
+  "projectFilePath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file /Users/signebaun/Desktop/Feddit/shared/obj/project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
-      "warningLevel": 1,
-      "filePath": "/Users/signebaun/Desktop/Feddit/shared/shared.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
