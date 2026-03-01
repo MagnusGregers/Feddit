@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {}
+    "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj": {}
   },
   "projects": {
-    "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj": {
+    "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj",
+        "projectUniqueName": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj",
         "projectName": "shared",
-        "projectPath": "/Users/sophieholm/Desktop/Feddit/shared/shared.csproj",
-        "packagesPath": "/Users/sophieholm/.nuget/packages/",
-        "outputPath": "/Users/sophieholm/Desktop/Feddit/shared/obj/",
+        "projectPath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\shared.csproj",
+        "packagesPath": "C:\\Users\\magnu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\magnu\\OneDrive - EFIF\\It-Arkitektur\\3. Semester\\Softwareudvikling\\Feddit\\shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sophieholm/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\magnu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
