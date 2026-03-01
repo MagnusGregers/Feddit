@@ -1,4 +1,10 @@
+using Microsoft.EntityFrameworkCore;
+using web_api.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<FedditContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("ContextSQLite")));
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -13,5 +19,3 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
-
